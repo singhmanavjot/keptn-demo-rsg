@@ -1,0 +1,2 @@
+deploymentURIsLocal:
+  - "http://helloservice.podtatohead-qa:80" 
